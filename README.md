@@ -1,1 +1,1 @@
-# THPcomplete
+# CompleteTHP
